@@ -1,2 +1,3 @@
 # VigySport Backend
-API backend basada en NestJS con arquitectura de microservicios y comunicación HTTP (REST). Base de datos PostgreSQL y despliegue con Docker.
+
+Backend API based on NestJS with microservices architecture and HTTP (REST) ​​communication. PostgreSQL database and deployment with Docker.
